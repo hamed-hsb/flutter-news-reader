@@ -45,7 +45,7 @@ lib/
 
 3. **Presentation Layer**
     - BLoC for state management.
-    - UI (Flutter widgets, pages, components).
+    - UI (Flutter widgets, pages).
 
 ---
 
