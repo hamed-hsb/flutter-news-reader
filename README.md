@@ -3,7 +3,7 @@
 A **News Reader App** built with **Flutter** following **Clean Architecture** principles and **BLoC state management**.  
 The app fetches news from multiple sources, caches them locally, and gracefully handles errors (e.g., falling back to cached data).
 
-[⬇️ Download Release APK]()
+[⬇️ Download Release APK](https://limewire.com/d/QTJDL#1mEdkNBMTY)
 ---
 
 ## ✨ Features
